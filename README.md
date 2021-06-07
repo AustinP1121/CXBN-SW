@@ -3,6 +3,6 @@
 # CXBN-SW
 CXBN-3: software
 
-This is the standard library where all files relating to software for the payload, control systems, and operations of CXBN-3 are stored. 
+This is the standard library where all files relating to software for the payload, control systems, operations, and command and data handling of CXBN-3 are stored. 
 
 If you need additional info, email apedigo@moreheadstate.edu 
