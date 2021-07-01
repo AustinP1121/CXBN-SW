@@ -13,7 +13,7 @@
 u8 Payload_Identifier = A; // default is PLD A
 
 
-unsigned char MST_Data[3], SLV_Data[3]; // declares SPI data frames (24 bits in length, 3 for each throughput)
+unsigned char MST_Data[3], SLV_Data[3]; // declares SPI data frames (24 bits in length, 3 bytes)
 
 unsigned char parity_bit (unsigned char* data_frame, unsigned int len) {
         // declares initial bit of an SPI frame
